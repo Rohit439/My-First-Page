@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Things I've Learned</title>
+</head>
+<body bgcolor="#33ccff">
+<h1><b>Things I've Learned</b></h1>
+<h3><b>Internet Basics</b></h3>
+<ol>
+<li>HTTP Requests</li>
+<li>IP Address</li>
+<li>Servers</li>
+</ol>
+
+<h2><b> HTML </b></h2>
+<ul>
+<li>Stands for <b>Hyper Text Markup Language</b></li>
+<li>Lots of tags</li>
+            <ul><li>Boilders plate</li>
+              <ol><li>Doctype</li>
+                  <li>HTML</li>
+                  <li>Head</li>
+                    <ol><li>Title</li></ol>
+                   <li>Body</li></ol>             
+                              <li>Headings</li>
+                              <li>Paragraph</li>
+                              <li><em>em</li></em>
+                              <li><b>strong</b></li></ul>   
+</body>
+</html>              
